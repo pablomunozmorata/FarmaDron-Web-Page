@@ -1,0 +1,26 @@
+.related-products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Cuadros más grandes */
+    gap: 40px; /* Espacio mayor entre cuadros */
+    padding: 16px;
+}
+
+.related-products-grid div {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.related-products-grid img {
+    max-width: 100%;
+    height: auto;
+}
+
+.related-product-link {
+    text-decoration: none;
+    color: inherit; /* Hereda el color del texto */
+}
+
+.related-product-link:hover {
+    color: #007bff; /* Cambia el color cuando se pasa el mouse por encima */
+}

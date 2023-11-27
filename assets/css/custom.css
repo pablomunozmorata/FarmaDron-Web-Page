@@ -1,0 +1,21 @@
+/*
+Custom Css
+*/
+/* Estilo para el contenedor del logo y el texto */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+/* Estilo para el logo */
+.logo-image {
+    height: 125px; /* O el tamaño que desees */
+    margin-right: 0;
+}
+
+/* Estilo para el contenedor del logo y el texto */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}

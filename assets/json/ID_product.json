@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Frenadol Forte granulated 10 sachets",
+        "category": "Cold-and-Flu",
+        "tags": ["flu", "congestion", "sore throat"],
+        "price": "12.00€",
+        "image": "assets/img/shop_01.jpg",
+        "description": "Frenadol Forte is an expertly crafted medication designed to combat the full spectrum of cold and flu symptoms. This powerful formula contains a synergistic blend of active ingredients that work in concert to provide rapid relief from the common cold, including congestion, sore throat, cough, and malaise. The granulated form ensures that the medication is quickly absorbed, delivering prompt symptomatic relief.",
+        "specification": "Each sachet contains 500mg of paracetamol, 25mg of dextromethorphan, and 5mg of pseudoephedrine. The product's granules are designed for easy dissolution in hot water, creating a comforting, therapeutic beverage. Recommended for adults and adolescents over the age of 12, with a dosing interval of every four to six hours. Do not exceed four sachets in a 24-hour period.",
+        "ratings": 3
+    },
+    {
+        "id": 2,
+        "name": "Paracetamol Bayer",
+        "category": "Pain-Relief",
+        "tags": ["pain", "fever", "headache"],
+        "price": "15.00€",
+        "image": "assets/img/shop_02.jpg",
+        "description": "Paracetamol Bayer is a premier analgesic and antipyretic medication, renowned for its efficacy in alleviating pain and reducing fever. Formulated to offer relief from diverse ailments such as headaches, musculoskeletal pain, and post-operative discomfort, it's a versatile component of any medical cabinet. Its gentle formulation is suitable for individuals seeking a non-irritating pain relief option.",
+        "specification": "Each film-coated tablet comprises 500mg of paracetamol, ensuring effective pain control. The film coating aids in ease of swallowing and is designed to minimize gastrointestinal irritation. Suitable for adults and children aged six and above, with a recommended dosing interval of four to six hours. Maximum daily dosage should not exceed 4 grams.",
+        "ratings": 3
+    },
+    {
+        "id": 3,
+        "name": "IlviGrip Expectorant, 10 sachets",
+        "category": "Cold-and-Flu",
+        "tags": ["cough", "mucolytic", "congestion"],
+        "price": "11.95€",
+        "image": "assets/img/shop_03.jpg",
+        "description": "IlviGrip Expectorant is a highly effective mucolytic agent, providing relief from chest congestion due to colds, bronchial infections, and respiratory allergies. It works by thinning and breaking down mucus, facilitating easier expectoration and breathing. Its efficacy in promoting a productive cough helps in the speedy recovery from respiratory ailments.",
+        "specification": "The primary active component, guaifenesin, is present in a concentration of 100mg per sachet. This expectorant is suitable for adults and adolescents, with dosing at regular intervals throughout the day as symptoms persist. It is recommended to maintain adequate hydration while using this product to enhance mucolytic action.",
+        "ratings": 4
+    },
+    {
+        "id": 4,
+        "name": "Paracetamol Tecnimide 500mg",
+        "category": "Pain-Relief",
+        "tags": ["pain", "fever", "mild pain"],
+        "price": "7.00€",
+        "image": "assets/img/shop_04.jpg",
+        "description": "Paracetamol Tecnimide is formulated to address pain and fever with precision and gentleness. Its well-tolerated composition makes it an optimal choice for those with sensitive stomachs or those who require pain management without anti-inflammatory effects. It is particularly effective for headaches, dental pain, and managing fevers associated with cold and flu.",
+        "specification": "Each tablet contains 500mg of pure paracetamol for dependable analgesia and fever reduction. The tablets are manufactured to pharmaceutical-grade standards, ensuring uniformity and quality in every dose. For adults, the recommended dosage is one to two tablets every four to six hours, with a maximum of 8 tablets in 24 hours.",
+        "ratings": 4
+    },
+    {
+        "id": 5,
+        "name": "Remidol granules, 650mg",
+        "category": "Pain-Relief",
+        "tags": ["acute pain", "fever", "analgesic"],
+        "price": "20.00€",
+        "image": "assets/img/shop_05.jpg",
+        "description": "Remidol granules provide powerful and prompt analgesia for acute pain and fever management. It is especially beneficial for individuals experiencing intense pain episodes or febrile conditions that require immediate attention. Its granulated form is designed for rapid solubility and absorption, ensuring quick onset of action.",
+        "specification": "Each sachet delivers a potent dose of 650mg acetaminophen, suitable for adults and children over 12 years. The granules are to be dissolved in water and taken orally. The swift dissolution facilitates speedy gastrointestinal absorption, providing faster relief than traditional tablets or capsules. Do not exceed the maximum recommended dosage, and avoid concurrent use with other acetaminophen-containing products.",
+        "ratings": 5
+    },
+    {
+        "id": 6,
+        "name": "Propalgina plus, powder for oral solution",
+        "category": "Cold-and-Flu",
+        "tags": ["flu", "decongestant", "sore throat"],
+        "price": "9.00€",
+        "image": "assets/img/shop_06.jpg",
+        "description": "Propalgina Plus is a multi-symptom cold and flu remedy, effectively treating sore throats, fevers, and aches. Its multi-action formula provides an analgesic, antipyretic, and decongestant effect, offering a comprehensive approach to cold and flu management.",
+        "specification": "The powder formulation allows for an oral solution to be made, combining phenylephrine and paracetamol for a full spectrum of symptom relief. The phenylephrine serves as a decongestant, while the paracetamol provides pain relief and fever reduction. Adults should use one sachet every four hours as needed, not exceeding six sachets in 24 hours.",
+        "ratings": 4
+    },
+    {
+        "id": 7,
+        "name": "Apiretal 500mg",
+        "category": "Pain-Relief",
+        "tags": ["headache", "toothache", "menstrual pain"],
+        "price": "13.50€",
+        "image": "assets/img/shop_07.jpg",
+        "description": "Apiretal stands out for its efficacy in treating headaches, toothaches, and menstrual cramps, offering a soothing reprieve from discomfort. The medication is engineered to work synergistically with your body's pain pathways, offering targeted relief without the common side effects associated with NSAIDs.",
+        "specification": "Containing 500mg of paracetamol per tablet, Apiretal is gentle enough for family use yet strong enough to provide significant pain relief. The tablets are formulated with patient-centric design for ease of administration. The recommended dose for adults and children over 12 years is one to two tablets every four to six hours, not to exceed 4 grams per day.",
+        "ratings": 3
+    },
+    {
+        "id": 8,
+        "name": "Couldina instant, 20 sachets",
+        "category": "Cold-and-Flu",
+        "tags": ["cold", "fever", "nasal congestion"],
+        "price": "21.30€",
+        "image": "assets/img/shop_08.jpg",
+        "description": "Couldina Instant is a fast-acting medication designed to alleviate the symptoms of the common cold. The sachets contain a blend of ingredients that work together to reduce fever, soothe sore throats, and clear nasal congestion, providing relief when you need it most.",
+        "specification": "Each sachet contains a combination of paracetamol, phenylephrine, and chlorphenamine to target the multiple symptoms of colds. The easy-to-dissolve powder forms a soothing solution that can be taken every four hours. Couldina Instant's comprehensive formula addresses a wide range of cold symptoms, making it a convenient option for cold relief.",
+        "ratings": 4
+    },
+    {
+        "id": 9,
+        "name": "Salvarine, oral",
+        "category": "Oral-Care",
+        "tags": ["oral infection", "sores", "antiseptic"],
+        "price": "30.00€",
+        "image": "assets/img/shop_09.jpg",
+        "description": "Salvarine oral medication is specially formulated to provide relief from various oral infections and sores. It acts quickly to reduce pain, inflammation, and bacterial growth, promoting a healing environment within the oral cavity.",
+        "specification": "The solution contains an antiseptic agent that helps to cleanse the oral area, reducing the risk of infection and aiding in the healing of mouth ulcers and sores. Suitable for adults and children, Salvarine can be used several times throughout the day as needed for pain relief and hygiene maintenance.",
+        "ratings": 5
+    }
+]

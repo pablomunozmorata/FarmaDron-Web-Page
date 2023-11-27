@@ -1,0 +1,76 @@
+/* Estilos para el ícono del carrito y el badge de cantidad */
+#cart-icon {
+    position: relative;
+    cursor: pointer;
+}
+
+#cart-icon .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    transform: translate(50%, -50%);
+    border-radius: 50%;
+    background-color: #FF4136;
+    color: white;
+    padding: 5px 10px;
+    font-size: 0.75rem;
+}
+
+/* Estilos para el panel desplegable del carrito */
+.cart-dropdown {
+    display: none; /* Inicialmente oculto */
+    position: absolute;
+    top: 50px; /* Ajusta según sea necesario para posicionar correctamente el carrito */
+    right: 0; /* Alinea el panel a la derecha del ícono del carrito */
+    width: 700px;
+    height: 500px; /* Altura más larga */
+    background-color: rgb(227, 246, 246);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    border-radius: 10px;
+    overflow-y: auto; /* Agrega scroll vertical si el contenido es muy largo */
+    overflow-x: hidden; /* Previene el desbordamiento horizontal */
+}
+
+/* Estilos para cada ítem dentro del panel del carrito */
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    border-bottom: 1px solid #EEE;
+    padding: 10px;
+}
+
+.cart-item:last-child {
+    border-bottom: none;
+}
+
+.cart-item img {
+    
+    margin-right: 10px;
+}
+
+.cart-item h4 {
+    font-size: 0.9rem;
+    margin: 0;
+    flex-grow: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.cart-item p {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #555;
+}
+
+/* Estilos para el total en el panel del carrito */
+#total-cart-panel {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px;
+    text-align: right;
+    border-top: 1px solid #EEE;
+}
+
